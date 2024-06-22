@@ -1,4 +1,4 @@
 print("HelloWorld!")
-def sum(a,b):
-    return a+b
-print(sum(9,0))
+def mul(a,b,c):
+    return a*b*c
+print(sum(9,0,9))
